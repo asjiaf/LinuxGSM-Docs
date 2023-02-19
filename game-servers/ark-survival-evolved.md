@@ -71,7 +71,7 @@ Next, edit or create `Game.ini` and add the following section, this will enable 
 ModIDS=924619115
 ```
 
-For the example mod add the following to `GameUserSettings.ini` other mods may require there own configuration as per there documentation.
+For the example mod add the following to `GameUserSettings.ini` other mods may require there own configuration as per their documentation.
 
 ```
 [WBUI]
